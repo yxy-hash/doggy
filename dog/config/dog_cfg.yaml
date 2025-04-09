@@ -1,0 +1,7 @@
+#全局参数
+/**:
+  ros__parameters:
+
+#模型推理参数
+/dog/infer:
+  ros__parameters: model_path:"/home/cat/Documents/doggy/dog/inference/model/fff-07-8500-base.onnx.rknn"

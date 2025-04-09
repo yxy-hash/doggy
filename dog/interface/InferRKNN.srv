@@ -1,0 +1,8 @@
+# Request 部分
+float32[] input_tensor_0
+float32[] input_tensor_1
+
+---
+
+# Response 部分
+float32[12] output_tensor
